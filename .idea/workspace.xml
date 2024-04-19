@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fe2d2d1a-e2ed-4d9d-be2a-da3e4df2dcec" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plans/planStored.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/elasticsearch.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/rabbitmq.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/utilities.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/statics/elastic-queries.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demon-wen-express/configs/logger.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demon-wen-express/services/plan.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demon-wen-express/services/redis.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demon-wen-express/validations/schema.validations.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;winniethebear424&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="bad6186e-f128-4540-94f9-89f0cc837fc5" />
+        <option name="url" value="https://github.com/winniethebear424/venni-yu-coding-diary.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2cbpStOhg5jefkjUtCnjhkIT2TV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Node.js.bin/www.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;21.7.3&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;20.12.7&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/wenwen/NEU/Academy/INFO 7255/demon-wen-express copy 3&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Applications/IntelliJ IDEA.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/schema" />
+      <recent name="$PROJECT_DIR$/controllers" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe2d2d1a-e2ed-4d9d-be2a-da3e4df2dcec" name="Changes" comment="" />
+      <created>1708390137981</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708390137981</updated>
+      <workItem from="1708390139700" duration="33352000" />
+      <workItem from="1709060680659" duration="50000" />
+      <workItem from="1709060742106" duration="2109000" />
+      <workItem from="1709137459593" duration="14590000" />
+      <workItem from="1709263360177" duration="6798000" />
+      <workItem from="1709584714440" duration="10327000" />
+      <workItem from="1709650074380" duration="11182000" />
+      <workItem from="1710599849836" duration="9000" />
+      <workItem from="1712531178718" duration="1585000" />
+      <workItem from="1712532776163" duration="7833000" />
+      <workItem from="1712606046689" duration="24975000" />
+      <workItem from="1712637535436" duration="36585000" />
+      <workItem from="1712787199236" duration="31321000" />
+      <workItem from="1712880648899" duration="10436000" />
+      <workItem from="1712954349091" duration="86280000" />
+      <workItem from="1713162357103" duration="15167000" />
+      <workItem from="1713197640126" duration="11000" />
+      <workItem from="1713197796951" duration="613000" />
+      <workItem from="1713198426538" duration="177000" />
+      <workItem from="1713244364315" duration="12731000" />
+      <workItem from="1713280056521" duration="35793000" />
+      <workItem from="1713387515912" duration="3788000" />
+      <workItem from="1713391526384" duration="10925000" />
+      <workItem from="1713409449818" duration="3683000" />
+      <workItem from="1713414976711" duration="12994000" />
+      <workItem from="1713428925592" duration="81000" />
+      <workItem from="1713429707212" duration="4353000" />
+      <workItem from="1713434967220" duration="412000" />
+      <workItem from="1713435401320" duration="899000" />
+      <workItem from="1713436393134" duration="166000" />
+      <workItem from="1713436586605" duration="1185000" />
+      <workItem from="1713437806167" duration="4794000" />
+      <workItem from="1713454824060" duration="8403000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="executable:docker" />
+    <option featureType="dependencySupport" implementationName="javascript:npm:pug" />
+    <option featureType="dependencySupport" implementationName="executable:kubectl" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

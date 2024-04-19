@@ -1,0 +1,1 @@
+const validateJsonSchema = require('jsonschema').validate;

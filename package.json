@@ -1,0 +1,27 @@
+{
+  "name": "demon-wen-express",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node bin/www.js"
+  },
+  "dependencies": {
+    "@elastic/elasticsearch": "^8.13.1",
+    "ajv": "^8.12.0",
+    "ajv-keywords": "^5.1.0",
+    "amqplib": "^0.10.4",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "etag": "^1.8.1",
+    "express": "~4.16.1",
+    "google-auth-library": "^9.6.3",
+    "http-errors": "~1.6.3",
+    "jsonschema": "^1.4.1",
+    "lodash": "^4.17.21",
+    "morgan": "~1.9.1",
+    "pug": "2.0.0-beta11",
+    "react": "^18.2.0",
+    "redis": "^4.6.13",
+    "request": "^2.88.2"
+  }
+}

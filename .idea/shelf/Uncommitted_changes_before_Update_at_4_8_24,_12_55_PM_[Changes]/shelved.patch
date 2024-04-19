@@ -1,0 +1,29 @@
+Index: ../../README.md
+===================================================================
+diff --git a/../../README.md b/../../README.md
+deleted file mode 100644
+--- a/../../README.md	(revision 5448b0f93d779767be24cc842d6e3cbcca571f94)
++++ /dev/null	(revision 5448b0f93d779767be24cc842d6e3cbcca571f94)
+@@ -1,19 +0,0 @@
+-# venni-yu-coding-diary
+-
+-## 斐波那契数列
+-#### 面试题10-1-斐波拉契数列: dp with recursion
+-#### 面试题10-2-青蛙跳台阶问题: dp with recursion, same
+-
+-## 搜索算法
+-#### 面试题04-二维数组中的查找, convert to Tree, very good methopd
+-#### 面试题11-旋转数组的最小数字（二分查找） GOOD ONE!
+-#### 面试题56-1-数组中数字出现的次数（二分查找） LEVEL UP!
+-
+-## LinkedList
+-#### 面试题06-从尾到头打印链表 
+-#### 面试题22-链表中倒数第k个结点        Good one! fast and slow pointer, 搞清楚cur.next 指向和cur 指向的不同
+-#### 面试题24-反转链表                 progress: used recursion to solve. 使用递归
+-#### 面试题25-合并两个排序的链表         progress: level up 解决合并k个升序链表 && 合并（置换）部分链表
+-#### 面试题35-复杂链表的复制
+-#### 面试题52-两个链表的第一个公共节点    level up: intersection point of cycled linkedlist
+-#### 面试题18-删除链表的节点            GOOD Method without iteration
+\ No newline at end of file
+diff --git a/../demon-wen-express copy 2/controllers/JWT.js b/../demon-wen-express copy 2/controllers/JWT.js
+new file mode 100644
