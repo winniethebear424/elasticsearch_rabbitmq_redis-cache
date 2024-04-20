@@ -1,7 +1,7 @@
 # elasticsearch_rabbitmq_redis-cache
 
 ### Techniques used:
-Docker, elasticsearch for index/doc management, rabbitmq for Queue and Streams, redis database for cache management
+Docker, elasticsearch for index/doc management, rabbitmq for Queue and Streams, redis database for cache management and key-value store
 
 Google Oauth2.0 for HTTPs Security Authentication
 Postman for Crud Method Testing, Queue/Parent-child for big-data indexing
